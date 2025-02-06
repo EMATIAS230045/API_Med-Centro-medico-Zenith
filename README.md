@@ -1,5 +1,5 @@
 # API_Med-Centro-m-dico-Zenith
-![Byte Blast](https://github.com/EMATIAS230045/API_Med-Centro-medico-Zenith/blob/Documentation/src/views/image/byte%20blast%20Tech.PNG)
+![Byte Blast](https://github.com/EMATIAS230045/API_Med-Centro-medico-Zenith/blob/structure/src/views/image/byte%20blast%20Tech.PNG)
 <p>En este repositorio trabajere un proyecto de parte de la Byte Blast Tech para el centro medico privado Zenith con el objetivo de optimizar sus bases de datos de su centro medico que cuenta con medico pacientes y un expediente de citas </p>
 
 ## Objetivos de la API:
